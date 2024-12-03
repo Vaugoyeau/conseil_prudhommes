@@ -1,0 +1,14 @@
+---
+title: "Conseil des prud'hommes"
+---
+
+## Genèse du projet  
+L'idée derrière ce projet est de demandé au conseil des prud'hommes d'Angers le résultat des décisions rendu du 01/01/2019 au 31/12/2023.  
+  
+## Déroulé  
+Ce projet est développé en direct sur [twitch](https://www.twitch.tv/marievaugoyeau) et à pour but d'être participatif.  
+
+## Contact  
+Pour toutes informations, n'hésite pas à me contacter sur [marie.vaugoyeau@gmail.com](mailto:marie.vaugpoyeau@gmail.com)  
+  
+  
